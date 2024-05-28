@@ -1,0 +1,27 @@
+table
+{
+  height: 500px;
+  width: 500px;
+  border-collapse: collapse;
+  border-style: solid;
+}
+td{
+  border: solid black;
+  border-collapse: collapse;
+}
+ #IG
+ { 
+  color:rgba(0, 0, 0, 1.0);
+  background-color:orangered ;
+ }
+	
+
+  #a
+ {
+    background-color: coral;
+
+  }  
+
+ #b{
+   background-color:aquamarine; 
+  }
